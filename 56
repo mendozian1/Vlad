@@ -1,0 +1,5 @@
+git config --global user.name "Vlad Shuban"
+git config --global user.email "shuban.vlad@gmail.com"
+git config --global core.autocrlf true
+git config --global core.safecrlf warn
+git config --global core.quotepath off
